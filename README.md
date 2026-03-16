@@ -3,7 +3,7 @@
 🎓 3rd-year Electrical & Electronics Engineering student at Anna University, Tamil Nadu  
 ⚡ Passionate about Power Systems, Power Electronics & Renewable Energy  
 🌐 Building full-stack & IoT projects that solve real problems  
-🛠️ Currently working on an IoT-based Ration Shop Billing System for Tamil Nadu PDS  
+🛠️ Currently working on an IoT project 
 🌱 Also growing a Moringa tree (and my coding skills)
 
 ## 🔧 Tech Stack
